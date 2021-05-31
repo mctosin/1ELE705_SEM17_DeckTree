@@ -1,2 +1,2 @@
-# 1ELE705_SEM15_DeckLinkedList_Solution2_MoreTests
-Biblioteca do jogo de cartas com funções gtests melhorados
+# 1ELE705_SEM15_DeckTree
+Implementação das funções de suporte para a mão de um determinado jogador usando árvore binária e listas ligadas.
